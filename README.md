@@ -76,7 +76,7 @@ Below are example outputs from the application:
 
 ![Translation Output](output/voice-text-translate-aduio.png)
 
-![history Output](history.png)
+![History](output/history.png)
 
 ![history Output}(output/v
 
