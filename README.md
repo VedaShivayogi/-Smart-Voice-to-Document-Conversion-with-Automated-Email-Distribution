@@ -76,6 +76,10 @@ Below are example outputs from the application:
 
 ![Translation Output](output/voice-text-translate-aduio.png)
 
+![history Output](history.png)
+
+![history Output}(output/v
+
 ## Project Structure
 
 - `app.py` - Main Flask application, email routes, TTS, and session management.
@@ -88,6 +92,8 @@ Below are example outputs from the application:
 - Update `app.secret_key` before deployment.
 - Adjust email handling to secure credentials and support environment-based configuration.
 
-## License
+## 🌐 Live Demo
 
-This project is provided as-is for demonstration and learning purposes.
+👉 https://smart-voice-to-document-conversion-with-7pi1.onrender.com/
+
+
