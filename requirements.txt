@@ -1,0 +1,4 @@
+Flask
+flask-mail
+gTTS
+translate
