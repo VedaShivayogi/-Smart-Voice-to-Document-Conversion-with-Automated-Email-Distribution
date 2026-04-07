@@ -2,3 +2,4 @@ Flask
 flask-mail
 gTTS
 translate
+deep-translator
