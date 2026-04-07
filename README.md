@@ -78,7 +78,7 @@ Below are example outputs from the application:
 
 ![History](output/history.png)
 
-![history Output}(output/v
+![Email](output/email.png)
 
 ## Project Structure
 
