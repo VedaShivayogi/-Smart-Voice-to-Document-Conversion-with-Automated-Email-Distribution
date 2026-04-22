@@ -5,7 +5,7 @@ A Flask-based voice translation and email delivery application that converts spe
 ## Features
 
 - User login-protected dashboard
-- Text translation via `deep-translator` using Google Translate
+- Text translation via <b> `deep-translator` </b> using Google Translate
 - Email delivery of:
   - translated text
   - PDF attachments
