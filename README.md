@@ -1,4 +1,4 @@
-# <b> Voice Translate Web App</b>
+## <b> Voice Translate Web App</b>
 
 A Flask-based voice translation and email delivery application that converts speech to text, translates text into a target language, and sends results via email.
 
